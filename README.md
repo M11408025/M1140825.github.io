@@ -6,7 +6,7 @@
 
 ### 1. `PPT`：前兩週用到的PPT投影片
 
-### 2. `YoutubeLink`：作業影片自動顯示開關
+### 2. `YoutubeLink`：作業影片自動顯示開關 NNN
 此目錄決定作業頁面是否顯示 YouTube 說明影片。
 * **使用方式**：若繳交作業時需附帶說明影片，請在此目錄建立對應單元的 `.txt` 檔案（例如 `unit1.txt`）。
 * **內容格式**：檔案內僅需放入 YouTube 影片網址（例如：`https://youtu.be/OOUMgliIskU`）。
